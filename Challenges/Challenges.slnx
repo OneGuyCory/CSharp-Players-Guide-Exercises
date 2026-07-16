@@ -1,5 +1,9 @@
 <Solution>
   <Project Path="../Distraction/Distraction.csproj" Id="fbdd471e-b9b5-494f-b1f6-42e2a7aece56" />
+  <Project Path="../Ditches/Ditches.csproj" Id="54ceded9-e6aa-4bd8-9640-4b2d1019a942" />
+  <Project Path="../DominionOfKings/DominionOfKings.csproj" Id="db2f5958-3994-4e21-b259-700ce1be1706" />
+  <Project Path="../FarmFields/FarmFields.csproj" Id="0f60b7e0-f935-454d-867a-07451b2d14d7" />
+  <Project Path="../FourSistersAndTheDuckbear/FourSistersAndTheDuckbear.csproj" Id="35e84401-5aae-45da-a3b2-0008a5c8aeff" />
   <Project Path="../ProgrammersFirstCrash/ProgrammersFirstCrash.csproj" Id="35ed0607-5b27-4494-8fb5-9a2c11f24b17" />
   <Project Path="../ReUsingVariable/ReUsingVariable.csproj" Id="74c29a5f-869c-4ce1-8c50-5d18cba72890" />
   <Project Path="../ThreeTypes/ThreeTypes.csproj" Id="7a7b4fa2-a191-4c4b-818e-e8aee528633b" />
