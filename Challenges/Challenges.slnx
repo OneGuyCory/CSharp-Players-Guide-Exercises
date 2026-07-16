@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="../Distraction/Distraction.csproj" Id="fbdd471e-b9b5-494f-b1f6-42e2a7aece56" />
+  <Project Path="../ProgrammersFirstCrash/ProgrammersFirstCrash.csproj" Id="35ed0607-5b27-4494-8fb5-9a2c11f24b17" />
+  <Project Path="../ReUsingVariable/ReUsingVariable.csproj" Id="74c29a5f-869c-4ce1-8c50-5d18cba72890" />
+  <Project Path="../ThreeTypes/ThreeTypes.csproj" Id="7a7b4fa2-a191-4c4b-818e-e8aee528633b" />
+  <Project Path="D:/2026/C#/C#PlayersGuide6thEdition/Challenges/Challenges.csproj" />
+  <Project Path="D:/2026/C#/C#PlayersGuide6thEdition/Inputs/Inputs.csproj" />
+  <Project Path="D:/2026/C#/C#PlayersGuide6thEdition/TheDecompilledGem/TheDecompilledGem.csproj" />
+</Solution>
